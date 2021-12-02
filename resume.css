@@ -1,0 +1,51 @@
+body{
+    background-color: white;
+}
+header{
+    text-align: center;
+}
+
+main{
+    content: "";
+}
+h2{
+    color: rgb(14, 206, 142);
+    text-align: center;
+}
+
+section {
+    text-align: center;
+   
+    
+
+}
+
+
+
+hr{
+    border-style: double;
+    border-width: 3px;
+}
+
+
+
+
+nav{
+    float: left;
+    padding: 25px;
+    width: 25%;
+    height: 40rem;
+    position: relative;
+    background-color: wheat;
+}
+
+
+ul{
+    list-style: none;
+}
+
+main{
+    position: relative;
+}
+
+    
